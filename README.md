@@ -1,5 +1,5 @@
 <h1 align="center">
-  ♾️ DevOps Engineer | Cloud & Automation Enthusiast
+   DevOps Engineer | Cloud & Automation Enthusiast
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### ⚛ Tech Stack  
+### </> Tech Stack  
 
 💻 **Operating Systems** | ☁ **Cloud Providers** | 🚢 **Containers & Orchestration** | ⚡ **CI/CD & Automation** | 📜 **Infrastructure as Code** | 🧐 **Monitoring & Logging**  
 --- | --- | --- | --- | --- | ---  
