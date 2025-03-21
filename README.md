@@ -24,6 +24,14 @@
 
 ---
 
+<div align="center">
+  
+![snake gif](https://github.com/PrabhuKatharwani/PrabhuKatharwani/blob/output/github-snake-dark.svg)
+  
+</div>
+  
+---
+
 ### 🔗 Connect with Me
 
 <h3 align="left">
@@ -38,5 +46,9 @@
        width="23" />
 </a>
 </p>
+  
 ---
+
 🌟 *"Automate everything, scale infinitely !!!"* 🌟
+
+
