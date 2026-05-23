@@ -1,5 +1,5 @@
 <h1 align="center">
-   DevOps Engineer | Cloud & Automation Enthusiast
+   DevOps Engineer | Cloud & Automation
 </h1>
 
 <p align="center">
